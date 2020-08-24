@@ -1,0 +1,63 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	/* margin: 0 auto; */
+	}
+ 
+ body{
+ 	font-family: 'Oswald', sans-serif;
+ 	background:url(../img/img1.jpeg);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+
+ }
+
+.container{
+		width: 300px;
+		margin: 80px auto;
+}
+
+.login-section{
+	background-color: skyblue;
+	padding: 25px;
+}
+.login-section img{
+
+	display: block;
+
+	margin: 0 auto;
+
+	width: 250px;
+	}
+.login-section h2{
+
+	text-align: center;
+
+	color: white;
+
+	margin: 10px auto;
+
+	font-size: 20px;
+
+	text-transform: capitalize;
+	}
+.form-control{
+
+	width: 95%;
+
+	height: 20px;
+
+	padding: 2px;
+
+	margin-bottom: 10px;
+	}
+.btn{
+    margin: 0 auto;
+    display: block;
+    background: gray;
+    border: 1px solid;
+    padding: 4px 12px;
+    color: white;
+    box-shadow: 2px 4px #ffffff61;
+    border: none;
+}
